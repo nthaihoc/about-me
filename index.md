@@ -8,7 +8,12 @@ Hello, my name is Hoc. I am a Data Science and Artificial Intelligence engineer.
 
 ## Research Interests
 
+My research interests primarily focus on the fields of Machine Learning and Computer Vision. In Machine Learning, I am dedicated to exploring algorithms and techniques that drive advancements in predictive models and data-driven applications. I am particularly interested in the processes of data collection and preprocessing, ensuring that data quality is optimized for accurate and efficient model training. Additionally, I am passionate about implementing MLOps pipelines to streamline AI applications across various domains.
+
+In Computer Vision, I focus on advanced deep learning models to tackle challenging applications in healthcare, 3D imaging, and object recognition. I am keen on exploring innovative techniques in image analysis, including segmentation, classification, and 3D reconstruction, which can contribute significantly to medical imaging solutions and enhance visual understanding in complex datasets.
+
+Beyond these areas, I am also interested in applications of AI in autonomous vehicles, manufacturing (particularly in quality control and process optimization), and big data technologies like Hadoop and Spark to enable scalable and efficient data processing.
+
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}

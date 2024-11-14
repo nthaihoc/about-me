@@ -10,7 +10,7 @@ main:
     notes: Early Accept, Oral Presentation
 
   - title: "A Study on Ensemble Learning for Cervical Cytology Classification"
-    authors: <strong>Van-Khanh Tran</strong>, <strong>Thai-Hoc Nguyen</strong>, <strong>Xuan-Lam Dinh</strong>, <strong>Chi-Cuong Nghiem</strong>
+    authors: <strong>Van-Khanh Tran*</strong>, <strong>Thai-Hoc Nguyen*</strong>, <strong>Xuan-Lam Dinh</strong>, <strong>Chi-Cuong Nghiem</strong> (* equal contribution)
     conference_short: ICTA
     conference: International Conference on Advances in Information and Communication Technology<strong>(ICTA)</strong>, 2024.
     pdf: 
