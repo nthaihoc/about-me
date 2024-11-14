@@ -2,20 +2,20 @@ main:
   - title: "An automatic machine learning based customer segmentation model with RFM analysis"
     authors: <strong>Xuan-Thi Tran*</strong>, <strong>Thai-Hoc Nguyen*</strong> (* equal contribution)
     conference_short: ICTA
-    conference: International Conference on Advances in Information and Communication Technology<strong>(ICTA)</strong>, 2024.
+    conference: International Conference on Advances in Information and Communication Technology<strong> (ICTA)</strong>, 2024.
     pdf: 
     code: 
     bibtex: 
-    image: 
+    image: ./assets/img/icta_01.png 
     notes: Early Accept, Oral Presentation
 
   - title: "A Study on Ensemble Learning for Cervical Cytology Classification"
     authors: <strong>Van-Khanh Tran*</strong>, <strong>Thai-Hoc Nguyen*</strong>, <strong>Xuan-Lam Dinh</strong>, <strong>Chi-Cuong Nghiem</strong> (* equal contribution)
     conference_short: ICTA
-    conference: International Conference on Advances in Information and Communication Technology<strong>(ICTA)</strong>, 2024.
+    conference: International Conference on Advances in Information and Communication Technology<strong> (ICTA)</strong>, 2024.
     pdf: 
     code:
     page:
     bibtex:
-    image: 
+    image: ./assets/img/icta_01.png 
     notes: Early Accept, Oral Presentation

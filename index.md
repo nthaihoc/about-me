@@ -14,10 +14,10 @@ In Computer Vision, I focus on advanced deep learning models to tackle challengi
 
 Beyond these areas, I am also interested in applications of AI in autonomous vehicles, manufacturing (particularly in quality control and process optimization), and big data technologies like Hadoop and Spark to enable scalable and efficient data processing.
 
-* Machine Learning: Algorithms, data preprocessing, and MLOps for AI applications.
-* Computer Vision: Deep learning for healthcare, 3D imaging, and object recognition.
-* Big Data: Scalable data processing with Hadoop and Spark.
-* Autonomous Vehicles & Manufacturing: AI applications in autonomous driving and process optimization.
+* **Machine Learning**: Algorithms, data preprocessing, and MLOps for AI applications.
+* **Computer Vision**: Deep learning for healthcare, 3D imaging, and object recognition.
+* **Big Data**: Scalable data processing with Hadoop and Spark.
+* **Autonomous Vehicles & Manufacturing**: AI applications in autonomous driving and process optimization.
 
 {% include_relative _includes/publications.md %}
 
