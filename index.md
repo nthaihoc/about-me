@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, my name is Hoc. I am a Data Science and Artificial Intelligence engineer. Currently, I am a researcher at the Institute of Applied Science and Technology (IAST) in Thai Nguyen, where my work focuses on researching Machine Learning techniques and advancing Computer Vision applications in healthcare and 3D imaging. My goal is to leverage AI and Computer Vision to create impactful solutions that enhance medical diagnostics and patient care.
+"Hello, my name is Hoc. I am a Data Science and Artificial Intelligence engineer. Currently, I am a researcher at the Institute of Applied Science and Technology (IAST) in Thai Nguyen, where my work focuses on researching Machine Learning and Deep Learning techniques and advancing Computer Vision applications in healthcare and 3D imaging. My goal is to leverage AI and Computer Vision to create impactful solutions that enhance medical diagnostics and patient care. For more information, please refer to my [curriculum_vitae](https://) or contact me directly at [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com)."
 
 ## Research Interests
 
@@ -19,8 +19,9 @@ cessing, seft-driving car, manufactoring, and image analysis techniques.
 ## Certification
 
 * **[2023]**: The ’5 Excellent’ award recipientvat University of Information Technology and Com-
-munication school (ICTU)
+munication school (ICTU).
 
+* **[2024]**: The ’5 Exellent’ award recipient at Thai Nguyen University.
 
 {% include_relative _includes/publications.md %}
 
