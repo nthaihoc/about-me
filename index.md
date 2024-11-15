@@ -18,10 +18,9 @@ cessing, seft-driving car, manufactoring, and image analysis techniques.
 
 ## Certification
 
-* The ’5 Excellent’ award recipientvat University of Information Technology and Com-
+* **[2023]**: The ’5 Excellent’ award recipientvat University of Information Technology and Com-
 munication school (ICTU)
 
-<i class="fa-solid fa-building" style="color: #cd182a;"></i> 2023 - present : **AI/CV Researcher at Institute of Applided Science and Technology IAST - ICTU**
 
 {% include_relative _includes/publications.md %}
 
