@@ -16,7 +16,7 @@ cessing, seft-driving car, manufactoring, and image analysis techniques.
 
 * **Big Data**: Research and develop big data processing applications using hadoop and spark.
 
-## Certification
+## Certifications
 
 * **[2023]**: The ’5 Excellent’ award recipientvat University of Information Technology and Com-
 munication school (ICTU).
