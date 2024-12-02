@@ -18,10 +18,9 @@ cessing, seft-driving car, manufactoring, and image analysis techniques.
 
 ## Certifications
 
-* **[2023]**: The ’5 Excellent’ award recipientvat University of Information Technology and Com-
-munication school (ICTU).
-
-* **[2024]**: The ’5 Exellent’ award recipient at Thai Nguyen University.
+* **[2023]**: *’5 Excellent’* Award recipientvat University of Information Technology and Communication.
+* **[2024]**: *’5 Excellent’* Award of Thai Nguyen University.
+* **[2023/2024/2025]**: Outstanding Student of Thai Nguyen University of Information and Technology Communication. 
 
 {% include_relative _includes/publications.md %}
 
