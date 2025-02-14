@@ -1,0 +1,11 @@
+main:
+  - title: "An automatic machine learning based customer segmentation model with RFM analysis"
+    authors: <strong>Xuan-Thi Tran*</strong>, <strong>Thai-Hoc Nguyen*</strong> (* equal contribution)
+    labels: Deep Learning, Machine Learning, Customer Segmentation, RFM Analysis
+    description: International Conference on Advances in Information and Communication Technology<strong> (ICTA)</strong>, 2024.
+    pdf: https:// 
+    code: https://
+    page: https://
+    bibtex: https://
+    image: ./assets/img/icta_02.png 
+    notes: Early Accept, Oral Presentation

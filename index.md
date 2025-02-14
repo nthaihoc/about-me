@@ -22,3 +22,5 @@ cessing, self-driving car, manufacturing, and image analysis techniques.
 * **[2023/2024/2025]**: *Outstanding Student* of Thai Nguyen University of Information and Communication Technology.
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/projects.md %}
