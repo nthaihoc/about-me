@@ -17,10 +17,10 @@ cessing, self-driving car, manufacturing, and image analysis techniques.
 
 ## Certifications
 
-* **[2023]**: *'5 Excellent'* Award recipient at the University of Information and Communication Technology.
-* **[2024]**: *'5 Excellent'* Award from Thai Nguyen University.
-* **[2023/2024/2025]**: *Outstanding Student* of Thai Nguyen University of Information and Communication Technology.
-
-{% include_relative _includes/publications.md %}
+* **[2023]**: *"5 Excellent"* Award recipient at the University of Information and Communication Technology.
+* **[2024]**: *"5 Excellent"* Award from Thai Nguyen University.
+* **[2023/2024/2025]**: *"Outstanding Student"* of Thai Nguyen University of Information and Communication Technology.
 
 {% include_relative _includes/projects.md %}
+
+{% include_relative _includes/publications.md %}

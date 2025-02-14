@@ -1,10 +1,7 @@
 main:
-  - title: "An automatic machine learning based customer segmentation model with RFM analysis"
+  - title: "Predicting Mobile SIM Prices Using LSTM (Long Short-Term Memory)"
     authors: <strong>Thai-Hoc Nguyen</strong>
-    description: This Project ....
-    pdf: https:// 
+    description: - Crawling prices SIM data from internet using Selenium tools <br> - Building and develop LSTM (Long Short Term Memory) model on prices SIM data <br> - Using Streamlit to developed a user interface basic <br> - Deploy the website on AWS cloud platform
     code: https://
-    page: https://
-    bibtex: https://
     image: 
     labels: Deep Learning, Machine Learning, Customer Segmentation, RFM Analysis
