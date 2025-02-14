@@ -1,11 +1,10 @@
 main:
   - title: "An automatic machine learning based customer segmentation model with RFM analysis"
     authors: <strong>Thai-Hoc Nguyen</strong>
-    labels: Deep Learning, Machine Learning, Customer Segmentation, RFM Analysis
     description: This Project ....
     pdf: https:// 
     code: https://
     page: https://
     bibtex: https://
     image: 
-    notes: 
+    labels: Deep Learning, Machine Learning, Customer Segmentation, RFM Analysis
