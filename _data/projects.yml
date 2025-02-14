@@ -1,7 +1,7 @@
 main:
   - title: "Predicting Mobile SIM Prices Using LSTM (Long Short-Term Memory)"
     authors: <strong>Thai-Hoc Nguyen</strong>
-    description: - Crawling prices SIM data from internet using Selenium tools <br> - Building and develop LSTM (Long Short Term Memory) model on prices SIM data <br> - Using Streamlit to developed a user interface basic <br> - Deploy the website on AWS cloud platform
+    description: In this project, I used the LSTM model to predict the price of mobile SIM cards in Vietnam. The dataset was collected from the website of the Ministry of Information and Communications of Vietnam. The model achieved an RMSE of 0.0001.
     code: https://
     image: 
     labels: Deep Learning, Machine Learning, Customer Segmentation, RFM Analysis
