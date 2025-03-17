@@ -15,12 +15,13 @@ cessing, self-driving car, manufacturing, and image analysis techniques.
 
 * **Big Data**: Research and develop big data processing applications using hadoop and spark.
 
+* **Large Language Models**: Researching the development, optimization, and applications of LLMs in various domains, including natural language understanding, generation, and specialized domain adaption.
+
 ## Certifications
 
 * **[2023]**: *"5 Excellent"* Award recipient at the University of Information and Communication Technology.
 * **[2024]**: *"5 Excellent"* Award from Thai Nguyen University.
 * **[2023/2024/2025]**: *"Outstanding Student"* of Thai Nguyen University of Information and Communication Technology.
 
-{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/publications.md %}
