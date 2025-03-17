@@ -8,7 +8,7 @@ main:
     page: https://books.google.com.vn/books?hl=vi&lr=&id=U7VNEQAAQBAJ&oi=fnd&pg=PA151&ots=nVD6xhir_b&sig=snoswsogNhNo2iEnZFME16NCsVo&redir_esc=y#v=onepage&q&f=false
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jDDvSmlkNE0J:scholar.google.com/&output=citation&scisdr=ClGaGgM9ELX23GUcJ0o:AFWwaeYAAAAAZ9gaP0qmnLCr43KQokB371jFqhA&scisig=AFWwaeYAAAAAZ9gaP73ZNtlLq1MJERoOnCBMsGI&scisf=4&ct=citation&cd=-1&hl=vi
     image: ./assets/img/icta_02.png 
-    notes: Early Accept, Oral Presentation
+    notes: Customer Segmentation, RFM, K-means Clustering, Hadoop, Spark
 
   - title: "A Study on Ensemble Learning for Cervical Cytology Classification"
     authors: <strong>Van-Khanh Tran*</strong>, <strong>Thai-Hoc Nguyen*</strong>, <strong>Xuan-Lam Dinh</strong>, <strong>Chi-Cuong Nghiem</strong> (* equal contribution)
@@ -19,4 +19,4 @@ main:
     page: https://books.google.com.vn/books?hl=vi&lr=&id=U7VNEQAAQBAJ&oi=fnd&pg=PA178&dq=related:_EMvrh0wkPsJ:scholar.google.com/&ots=nVD6xhiq_6&sig=HjtAs1qFGbEgPQjJ8B4SNB87soQ&redir_esc=y#v=onepage&q&f=false
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:_EMvrh0wkPsJ:scholar.google.com/&output=citation&scisdr=ClGaGgM9ELX23GUf0C8:AFWwaeYAAAAAZ9gZyC_jxResWHJw6XMCgEsD1ZQ&scisig=AFWwaeYAAAAAZ9gZyIEyIWkVBlvTHbK4Z5zx4oY&scisf=4&ct=citation&cd=-1&hl=vi
     image: ./assets/img/icta_01.png 
-    notes: Early Accept, Oral Presentation
+    notes: Ensemble Learning, Cervical Cancer Cytology, Deep Learning
