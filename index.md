@@ -28,13 +28,13 @@ Additionally, I have a strong interest in exploring advanced AI techniques, incl
 
 ## Certifications
 
-- **[2023]**: *"5 Excellent"* Award recipient, University of Information and Communication Technology.
+- **[2023]** *"5 Excellent"* Award recipient, University of Information and Communication Technology.
 
-- **[2024]**: *"5 Excellent"* Award, Thai Nguyen University.
+- **[2024]** *"5 Excellent"* Award, Thai Nguyen University.
 
-- **[2024]**: *"Outstanding Research Student"*, Thai Nguyen University of Information and Communication Technology.
+- **[2024]** *"Outstanding Research Student"*, Thai Nguyen University of Information and Communication Technology.
 
-- **[2023–2025]**: *"Outstanding Student"*, Thai Nguyen University of Information and Communication Technology.
+- **[2023–2025]** *"Outstanding Student"*, Thai Nguyen University of Information and Communication Technology.
 
 
 {% include_relative _includes/publications.md %}
