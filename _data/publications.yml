@@ -3,8 +3,8 @@ main:
     authors: <strong>Xuan-Thi Tran*</strong>, <strong>Thai-Hoc Nguyen*</strong> (* equal contribution)
     conference_short: ICTA
     conference: International Conference on Advances in Information and Communication Technology<strong> (ICTA)</strong>, 2024.
-    pdf: ../assets/files/paper-01-segmentation_kmeans_and_RFM.pdf
-    code: https://github.com/nthaihoc/rfm-segmentation-ml
+    pdf: ./assets/files/paper-01-segmentation_kmeans_and_RFM.pdf
+    code: /home/iast-05/ai-researcher-root/about-me/assets/files/paper-01-segmentation_kmeans_and_RFM.pdf
     page: 
     bibtex: 
     image: ./assets/img/icta_02.png 
@@ -14,7 +14,7 @@ main:
     authors: <strong>Van-Khanh Tran*</strong>, <strong>Thai-Hoc Nguyen*</strong>, <strong>Xuan-Lam Dinh</strong>, <strong>Chi-Cuong Nghiem</strong> (* equal contribution)
     conference_short: ICTA
     conference: International Conference on Advances in Information and Communication Technology<strong> (ICTA)</strong>, 2024.
-    pdf: ../assets/files/paper-02-ensemble_learning_for_cervical_cancer.pdf
+    pdf: ./assets/files/paper-02-ensemble_learning_for_cervical_cancer.pdf
     code: https://
     page:
     bibtex: 
