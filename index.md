@@ -38,5 +38,3 @@ Additionally, I have a strong interest in exploring advanced AI techniques, incl
 
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/projects.md %}

@@ -11,7 +11,7 @@ canonical: https://minimal-light-theme.yliu.me/
 google_scholar: https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/nthaihoc
-website: https://nthaihoc.github.io/open-notes-hub
+website:
 affiliation_link: https://iast.ictu.edu.vn
 
 avatar: ./assets/img/avatar.jpeg
