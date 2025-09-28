@@ -4,8 +4,8 @@ main:
     conference_short: ICTA
     conference: International Conference on Advances in Information and Communication Technology<strong> (ICTA)</strong>, 2024.
     pdf: ./assets/files/paper-01-segmentation_kmeans_and_RFM.pdf
-    code: /home/iast-05/ai-researcher-root/about-me/assets/files/paper-01-segmentation_kmeans_and_RFM.pdf
-    page: 
+    code: https://github.com/nthaihoc/rfm-segmentation-ml
+    page: https://link.springer.com/chapter/10.1007/978-3-031-80943-9_16
     bibtex: 
     image: ./assets/img/icta_02.png 
     notes: Customer Segmentation; RFM; K-means Clustering; Hadoop; Spark
@@ -16,7 +16,7 @@ main:
     conference: International Conference on Advances in Information and Communication Technology<strong> (ICTA)</strong>, 2024.
     pdf: ./assets/files/paper-02-ensemble_learning_for_cervical_cancer.pdf
     code: https://
-    page:
+    page: https://link.springer.com/chapter/10.1007/978-3-031-80943-9_19
     bibtex: 
     image: ./assets/img/icta_01.png 
     notes: Ensemble Learning; Cervical Cancer Cytology; Deep Learning
